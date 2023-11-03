@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.node {
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.node-input {
+  margin-right: 10px;
+}
+
+.node-button {
+  margin-right: 5px;
+}
+
+/* // */
+
